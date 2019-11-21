@@ -1,8 +1,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
-* [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
+* [Form1.cs](./CS/Reporting_how-to-programmatically-create-a-table-and-manually-add-rows-and-cells-to-it-e1333/Form1.cs) (VB: [Form1.vb](./VB/Reporting_how-to-programmatically-create-a-table-and-manually-add-rows-and-cells-to-it-e1333/Form1.vb))
+* [XtraReport1.cs](./CS/Reporting_how-to-programmatically-create-a-table-and-manually-add-rows-and-cells-to-it-e1333/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/Reporting_how-to-programmatically-create-a-table-and-manually-add-rows-and-cells-to-it-e1333/XtraReport1.vb))
 <!-- default file list end -->
 # How to programmatically create a table and manually add rows and cells to it
 
